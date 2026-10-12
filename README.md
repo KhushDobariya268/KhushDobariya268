@@ -81,7 +81,11 @@ Mission:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=khushdobariya&show_icons=true&theme=tokyonight&hide_border=true" alt="Khush's GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khushdobariya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushdobariya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
