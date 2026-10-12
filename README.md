@@ -87,6 +87,8 @@ Mission:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushdobariya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushdobariya268)
+
 </div>
 
 ---
